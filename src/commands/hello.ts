@@ -20,6 +20,7 @@ hello world from ./src/hello.ts!
   static args = [{name: 'file'}]
 
   async run() {
+    console.log(this.parse(Hello));
     const {args, flags} = this.parse(Hello)
 
     const name = flags.name || 'world'
