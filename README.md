@@ -25,7 +25,7 @@ $ npm install -g pravega
 $ pravega COMMAND
 running command...
 $ pravega (-v|--version|version)
-pravega/0.1.0 win32-x64 node-v10.16.3
+pravega/0.1.1 win32-x64 node-v10.16.3
 $ pravega --help [COMMAND]
 USAGE
   $ pravega COMMAND
@@ -64,7 +64,7 @@ OPTIONS
   -h, --help             show CLI help
 ```
 
-_See code: [src\commands\git.ts](https://github.com/NixLord/pravega/blob/v0.1.0/src\commands\git.ts)_
+_See code: [src\commands\git.ts](https://github.com/NixLord/pravega/blob/v0.1.1/src\commands\git.ts)_
 
 ## `pravega hello [FILE]`
 
@@ -84,7 +84,7 @@ EXAMPLE
   hello world from ./src/hello.ts!
 ```
 
-_See code: [src\commands\hello.ts](https://github.com/NixLord/pravega/blob/v0.1.0/src\commands\hello.ts)_
+_See code: [src\commands\hello.ts](https://github.com/NixLord/pravega/blob/v0.1.1/src\commands\hello.ts)_
 
 ## `pravega help [COMMAND]`
 
@@ -125,7 +125,7 @@ DESCRIPTION
   Code also gets pushed to its repository.
 ```
 
-_See code: [src\commands\publish.ts](https://github.com/NixLord/pravega/blob/v0.1.0/src\commands\publish.ts)_
+_See code: [src\commands\publish.ts](https://github.com/NixLord/pravega/blob/v0.1.1/src\commands\publish.ts)_
 <!-- commandsstop -->
 * [`pravega hello [FILE]`](#pravega-hello-file)
 * [`pravega help [COMMAND]`](#pravega-help-command)

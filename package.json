@@ -1,7 +1,7 @@
 {
   "name": "pravega",
   "description": "Framework for small dev teams to leverage the power of cloud easily",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "shibasis @shibasis0801",
   "bin": {
     "pravega": "./bin/run"
