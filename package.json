@@ -1,0 +1,22 @@
+{
+  "name": "pravega",
+  "version": "0.1.0",
+  "description": "PravegaCLI",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nixlord/pravega.git"
+  },
+  "keywords": [
+    "CLI"
+  ],
+  "author": "Shibasis Patnaik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nixlord/pravega/issues"
+  },
+  "homepage": "https://github.com/Nixlord/pravega#readme"
+}
