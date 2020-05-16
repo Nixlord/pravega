@@ -1,0 +1,9 @@
+[submodule "pravega-android"]
+	path = pravega-android
+	url = https://github.com/Nixlord/pravega-android.git
+[submodule "pravega-backend"]
+	path = pravega-backend
+	url = https://github.com/Nixlord/pravega-backend.git
+[submodule "pravega-ai"]
+	path = pravega-ai
+	url = https://github.com/Nixlord/pravega-ai
